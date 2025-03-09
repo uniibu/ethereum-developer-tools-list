@@ -85,6 +85,8 @@
 * [Parasol](https://github.com/Lamarkaz/parasol) - 테스팅과 인퓨라(INFURA) 배포, 자동 컨트렉트 문서 등 애자일(Agile)방식의 스마트 컨트렉트 개발 환경 입니다. 자유로운 사용자 정의(unlimited customizability)와 남을 생각하는(unopinionated) 디자인, 융통성(flexible) 있는 기능이 있습니다.
 * [0xcert](https://github.com/0xcert/framework/) - 탈중앙화 어플리케이션 제작을 위한 자바스크립트 프레임워크 입니다.
 <a name="통합개발환경"></a>
+* [EVMTools](https://evmtools.xyz) - 웹3 및 솔리디티 개발자를 위한 EVM 도구 모음, 모든 개발 도구를 한 곳에서. 20개 이상의 유틸리티가 있으며, 더 많은 유틸리티가 자주 추가됩니다.
+
 #### 통합 개발 환경
 * [리믹스(Remix)](https://remix.ethereum.org/) - 블록체인 가상머신에서 테스트와 정적 분석(static analysis)이 포함된 웹 통합 개발 환경 입니다.
 * [수퍼블록스 랩(Superblocks Lab)](https://superblocks.com/lab/) - 웹 통합 개발 환경입니다. 브라우저에 내장된 블록체인 가상머신, 메타마스크 통합 (테스트넷/메인넷에 클릭 한번으로 배포), 거래 기록과 웹앱(WebApp)의 다른 기능들간 라이브 코드 입니다.
@@ -114,6 +116,7 @@
 * [링크비 파우셋(Rinkeby faucet)](https://faucet.rinkeby.io/)
 * [코반 파우셋(Kovan faucet)](https://github.com/kovan-testnet/faucet)
 * [롭스텐 파우셋(Ropsten faucet)](http://faucet.ropsten.be:3001/)
+* [홀레스키 파우셋(Holesky faucet)](https://stakely.io/en/faucet/ethereum-holesky-testnet-eth)
 * [유니버셜 파우셋(Universal faucet)](https://faucets.blockxlabs.com/)
 * [니더리움 파우셋(Nethereum Faucet)](https://github.com/Nethereum/Nethereum.Faucet) - C#/.NET 파우셋 입니다.
 <a name="이더리움과정보전달"></a>
@@ -145,10 +148,12 @@
 * [Web3.php](https://github.com/sc0Vu/web3.php) - PHP 웹3 입니다.
 * [Ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP 웹3 입니다.
 * [Web3j](https://github.com/web3j/web3j) - 자바 웹3 입니다.
+* [ethers-kt](https://github.com/Kr1ptal/ethers-kt) - EVM 기반 블록체인과 상호 작용하기 위한 비동기, 고성능 Kotlin 라이브러리입니다. JVM 및 Android 플랫폼을 대상으로 합니다.
 * [Nethereum](https://nethereum.com/) - 닷넷 웹3 입니다.
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - 루비 웹3 입니다.
 * [Web3.hs](https://hackage.haskell.org/package/web3) - 하스켈(Haskell) 웹3 입니다.
 * [KEthereum](https://github.com/walleth/kethereum) - 코틀린(Kotlin) 웹3 입니다.
+* [web3dart](https://github.com/xclud/web3dart) - 다트 웹3
 * [Pyethereum](https://github.com/ethereum/pyethereum) - 이더리움 프로젝트의 파이썬 코어 라이브러리 입니다.
 * [Eventeum](https://github.com/ConsenSys/eventeum) - 이더리움 스마트 컨트렉트 이벤트와 백엔드 마이크로서비스를 연결 합니다. Kauri가 자바로 작성했습니다.
 * [Ethereumex](https://github.com/mana-ethereum/ethereumex) - 이더리움 블록체인을 위한 엘릭서(Elixir) JSON-RPC 클라이언트 입니다.
@@ -242,6 +247,8 @@
 * [위스퍼(Whisper)](https://github.com/ethereum/wiki/wiki/Whisper) - 각각의 탈중앙화 어플리케이션들 통신을 위한 의사소통 프로토콜, 이더리움 웹3 스택의 네이티브 기초 계층 서비스 입니다.
 * [데브p2p 와이어 프로토콜(DEVp2p Wire Protocol)](https://github.com/ethereum/devp2p/blob/master/devp2p.md) - 작동 중인 이더리움/위스퍼 노드간 피어-투-피어(Peer-to-peer) 통신 입니다.
 * [파이데브p2p(Pydevp2p)](https://github.com/ethereum/pydevp2p) - RLPx 네트워크 계층의 파이썬 구현 입니다.
+* [GroupFi](https://github.com/TanglePay/GroupFi-Chatbox/blob/dev/packages/sdk/README.md) - GroupFi Chatbox SDK를 사용하여 개발자가 EVM 체인의 dApps에 GroupFi의 채팅 기능을 쉽게 통합 
+할 수 있습니다.
 <a name="테스팅도구"></a>
 ### 테스팅 도구
 * [솔리디티 코드 커버리지(Solidity code coverage)](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - 솔리디티 코드 커버리지 도구 입니다.
@@ -281,6 +288,7 @@
 * [솔리디티 보안 블로그(Solidity security blog)](https://github.com/sigp/solidity-security-blog) - 알려진 공격 백터(vectors)와 일반적인 안티패턴(anti-patterns) 종합 리스트 입니다.
 * [어썸 버기 ERC20 토큰(Awesome Buggy ERC20 Tokens)](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - 토큰에 영향을 주는 ERC20 스마트 컨트렉트의 취약성 모음 입니다.
 * [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Callisto 네트워크의 무료 스마트 컨트렉브 보안 감사(audits) 입니다.
+* [Kontrol](https://github.com/runtimeverification/kontrol) - Foundry 속성 테스트를 통한 Solidity 스마트 계약의 형식 검증.
 <a name="모니터링"></a>
 ### 모니터링
 * [노이펀드(Neufund) - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - 스마트 컨트렉트와 거래의 수를 모니터하는 도구 입니다.

@@ -42,6 +42,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Dapp](https://dapp.tools/dapp/) - DApps開発フレームワーク。DAppleの後継。
 * [Populus](https://github.com/ethereum/populus) - もっともかわいい動物写真を含むEthereum開発フレームワーク。 
 * [Etherlime](https://github.com/LimeChain/etherlime) - ethers.jsベースのDApps開発フレームワーク。
+* [EVMTools](https://evmtools.xyz) - Web3およびSolidity開発者のためのEVMツールキット。すべての開発ツールを一箇所にまとめました。20以上のユーティリティがあり、さらに頻繁に追加されています。
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - 静的解析とブロックチェーンVMによるテスト機能を含むWeb IDE。
@@ -68,6 +69,9 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
 * [Kovan faucet](https://github.com/kovan-testnet/faucet)
 * [Ropsten faucet](http://faucet.ropsten.be:3001/)
+* [Goerli faucet](https://goerli-faucet.slock.it/)
+* [Holesky faucet](https://stakely.io/en/faucet/ethereum-holesky-testnet-eth)
+* [Universal faucet](https://faucets.blockxlabs.com/)
 
 ### Ethereumを利用するためのクライアント
 #### フロントエンドEthereum API
@@ -93,10 +97,12 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Web3.php](https://github.com/sc0Vu/web3.php) - PHP Web3
 * [Ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP Web3
 * [Web3j](https://github.com/web3j/web3j) - Java Web3
+* [ethers-kt](https://github.com/Kr1ptal/ethers-kt) - EVMベースのブロックチェーンと対話するための非同期、高性能Kotlinライブラリ。JVMおよびAndroidプラットフォームを対象としています。
 * [Nethereum](https://nethereum.com/) - .Net Web3
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - Ruby Web3
 * [Web3.hs](http://hackage.haskell.org/package/web3) - Haskell Web3
 * [KEthereum](https://github.com/walleth/kethereum) - Kotlin Web3
+* [web3dart](https://github.com/xclud/web3dart) - Dart Web3
 * [Pyethereum](https://github.com/ethereum/pyethereum) - The Python core library of the Ethereum project
 * [Eventeum](https://github.com/ConsenSys/eventeum) - Kauri作成のEthereumのスマートコントラクト・イベントと バックエンドのマイクロサービスを繋ぐブリッジ。JAVA製。
 * [Ethereumex](https://github.com/exthereum/ethereumex) - Elixir製のEthereumブロックチェーン用JSON-RPCクライアント 
@@ -180,6 +186,8 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Whisper](https://github.com/ethereum/wiki/wiki/Whisper) - Ethereum web3スタックのネイティブ・ベース・レイヤーの、DApps間のコミュニケーションプロトコル
 * [DEVp2p Wire Protocol](https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol) - Ethereum/Whisperが稼働するノード間のP2Pコミュニケーション 
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - RLPxネットワークレイヤーのPython実装
+* [GroupFi](https://github.com/TanglePay/GroupFi-Chatbox/blob/dev/packages/sdk/README.md) - GroupFi Chatbox SDKにより、開発者はGroupFiのチャットボックスをEVMチェーン上のdAppsに簡単に 
+統合できます。
 
 ### テストツール
 * [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/sol-cov) - Solidityコードカバレッジツール
@@ -206,6 +214,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Manticore](https://github.com/trailofbits/manticore) - スマートコントラクトとバイナリのためのSymbolic executionツール  
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) - 既知の攻撃手法と一般的なアンチパターンの包括的なリスト  
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - ERC20トークン・スマートコントラクトの脆弱性コレクション 
+* [Kontrol](https://github.com/runtimeverification/kontrol) - Foundryのプロパティテストを通じたSolidityスマートコントラクトの形式的検証
 
 ### モニタリング
 * [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - 多くのスマートコントラクト、トランザクションを監視するためのツール

@@ -16,7 +16,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Metamask](https://metamask.io/) - Chrome extension Ether wallet with ERC tokens support
 * [Gnosis multisig wallet](https://github.com/gnosis/MultiSigWallet) - Audited multi-sig wallet
 * [Exodus](https://www.exodus.io) - Desktop wallet with Shapeshift integration
-* [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) - Ethereum Browser Extension focused on usability of real world applications
+* [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) - Ethereum Browser Extension focused on usability of real-world applications
 
 #### Web Wallets
 * [MyEtherWallet](https://github.com/MyEtherWallet) - Open-source [tools](https://www.myetherwallet.com/) for interacting with the blockchains easily & securely
@@ -27,6 +27,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Eth lightwallet](https://github.com/ConsenSys/eth-lightwallet) - Lightweight JS Wallet for Node and the browser
 * [SpankCard](https://github.com/SpankChain/SpankCard) - An in-browser Ethereum wallet with support for payment channels
 * [Mnemonic generator](https://iancoleman.io/bip39/) - generate word mnemonic and associated public/private key pairs. Select "Ethereum" as coin to generate Ethereum addresses. Useful for truffle-hd-wallet.
+* [FreeWallet](https://freewallet.org/eth-wallet) - The best wallet to buy, store, send and receive Ethereum. The Ethereum Wallet by Freewallet is available on iOS, Android and the web.
 
 #### Mobile Wallets
 * [Coinbase Wallet](https://github.com/CoinbaseWallet) - Mobile Dapp explorer and [wallet](https://apps.apple.com/us/app/coinbase-wallet/id1278383455)
@@ -39,7 +40,10 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [eth-wallet-light](https://github.com/NoahZinsmeister/eth-wallet-light) - Lightweight JS Wallet optimized for mobile
 * [Metamask](https://play.google.com/apps/testing/io.metamask) - Mobile Ether wallet with ERC tokens support **beta**
 * [WiniWallet](https://www.winiwallet.io/) - Wallet for DAI stablecoin with multiple DeFi investment
-
+* [FreeWallet](https://freewallet.org/eth-wallet) - The best wallet to buy, store, send and receive Ethereum. The Ethereum Wallet by Freewallet is available on iOS, Android and the web.
+* [UnstopableWallet](https://unstoppable.money/) - Unstoppable Wallet is an open-source, non-custodial storage solution known for its intuitive design and frictionless user experience.
+* [Numio](https://www.numio.one/) - Numio is a non-custodial, Layer 2 Ethereum wallet, powered by zkRollups for fast and cheap ERC-20 transactions and token swaps.
+* [Rainbow](https://rainbow.me/) - A better home for your Ethereum assets.
 
 #### Hardware Wallets
 * [Trezor](https://trezor.io) - The original hardware wallet
@@ -49,12 +53,12 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Block explorers
 * [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
 * [BlockScout](https://github.com/poanetwork/blockscout) - Open Source Ethereum Block explorer, funded by [Ethprize](http://ethprize.io) and developed by [POA](https://poa.network/)
-* [TrueBlocks](https://github.com/Great-Hill-Corporation/trueblocks-core) - TrueBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, \(c\) in an fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance free way.)
+* [TrueBlocks](https://github.com/Great-Hill-Corporation/trueblocks-core) - TrueBlocks is a collection of software libraries, applications, tools, and examples that allow you to retrieve Ethereum blockchain data (a) more quickly, (b) with higher information content, \(c\) in a fully decentralized way, (d) in a fully automated way, and (e) in a highly maintenance-free way.)
 * [Etherchain lite](https://github.com/gobitfly/etherchain-light) - Lightweight blockchain explorer for your private Ethereum chain
 * [EthStats](https://ethstats.io/) - The Ethereum Blockchain Analytics Platform
 * [Scout](https://scout.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
 * [ethq](https://ethq.app) - The [dfuse](https://dfuse.io) powered, most detailed, block explorer built for developers
-* [Ethernal](https://www.tryethernal.com) - Ethereum block explorer for private chain. Browse transactions, decode function calls, event data or contract variables values on your locally running chain.
+* [Ethernal](https://www.tryethernal.com) - Ethereum block explorer for private chain. Browse transactions, decode function calls, event data or contract variable values on your locally running chain.
 
 ### Gas price calculators and tools
 * [EthGasStation](https://ethgasstation.info/) - Website for estimating tx prices vs times
@@ -63,8 +67,9 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Services
 * [Provable](http://docs.provable.xyz/#ethereum) - Blockchain oracle service backed by authenticity proofs, for your smart contracts
 * [Infura](https://infura.io/) - API gateway so you don't have to host your own ETH node
+* [Moralis](https://moralis.io) - Enterprise-grade Web3 API that can be used for efficiently indexing blockchain data, authenticate various web3 wallets, and listen to real-time blockchain events in multiple EVM chains
 * [Quiknode](https://quiknode.io/) - Service to spin up personal Parity/Geth nodes
-* [Nodesmith](https://nodesmith.io/) - Free API access to full Ethereum mainnet and testnet nodes, can be used just like a local node
+* [Nodesmith](https://nodesmith.io/) - Free API access to full Ethereum mainnet and testnet nodes, which can be used just like a local node
 * [dfuse](https://dfuse.io) - Slick blockchain APIs to build world-class applications
 * [Regis](https://regis.nu/) - Registry Framework for Digital Assets
 * [Treum](https://treum.io/) - Just consider using Treum as your backend if the use case is business process oriented, formerly Viant
@@ -83,12 +88,17 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Rockside Cloud](https://rockside.io) - Ethereum network access provider and consortium blockchain builder
 * [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service
 * [BUIDLHub](https://buidlhub.com) - Create automated workflows between traditional web services & ethereum. Supports bots, webhooks, custom dapp integrations, etc.
+* [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
+* [Picket](https://picketapi.com) - A simple API and SDK for wallet-based authentication and token-based authorization (a.k.a token-gating)
+* [Chainnodes](https://www.chainnodes.org/) - Web3 Infrastructure provider with enterprise-grade low latency for all. Supports all major EVM chains.
 
 ### Knowledge/Education
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 * [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Solidity gotchas, pitfalls, limitations, and idiosyncrasies
 * [Ethereum development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little [book](https://goethereumbook.org) on Ethereum Development with Golang
 * [Consensys Academy](https://consensys.net/academy/) - Courses
+* [Moralis Academy](https://academy.moralis.io) - Paid courses on Solidity programming, dApp development, and building blockchain business
+* [Bankless Academy](https://app.banklessacademy.com) - Free courses to kickstart your Web3 journey. Learn the essentials of Bitcoin, Ethereum, Blockchain, Layer 2s, setting up your first wallet, and more.
 * [B9Lab](https://academy.b9lab.com/) - Paid courses
 * [Blockgeeks](https://courses.blockgeeks.com/) - Paid courses on solidity/dapp development
 * [Chainshot building blocks](https://www.chainshot.com/) - Paid Courses
@@ -101,10 +111,14 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
 * [Zastrin](https://www.zastrin.com) - Paid courses on Solidity/Dapp Development
 * [Chainstack Docs](https://docs.chainstack.com/tutorials/) - Step-by-step DApp building tutorials
+* [Learn web 3 DAO](https://www.learnweb3.io/) - Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!
+* [Dapp learning DAO](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Definitive Guide for Decentralized-app(Dapp) Development on Blockchain Step-by-step Dapp practice through actual projects.
+* [L2Beat](https://l2beat.com/) - Analytics and research website about Ethereum layer two (L2) scaling solutions.
 
 #### Security best practices
 * [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
 * [Safety wiki](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum Foundation wiki on safety
+* [Solidity school](https://github.com/Aniket-Engg/solidity-school) - This is an initiative for the early solidity developers by those who were early developers sometime.
 
 #### Solidity Games!
 * [OpenZeppelin Ethernaut](https://ethernaut.openzeppelin.com/) - Web3/Solidity based wargame
@@ -149,6 +163,10 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Bancor](https://www.bancor.network/)
 * [Kyber](https://www.kyber.network)
 * [Gnosis Dutch Exchange](https://github.com/gnosis/dx-contracts)
+* [Sushiswap Exchange](https://www.sushi.com/)
+* [dYdX Exchange](https://trade.dydx.exchange/r/defiprime)
+* [1inch Exchange](https://app.1inch.io/#/1/swap/ETH/DAI)
+
 
 ### Incentivisation / Monetisation Tools
 * [Gitcoin](https://gitcoin.co) - Bounty network for funding Open Source or finding Open Source work
@@ -162,11 +180,14 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Defiprime.com](https://defiprime.com/) - A curated list of awesome decentralized finance projects, software, events, and resources
 * [DEX protocols](https://github.com/evbots/dex-protocols) - A list of protocols for decentralised exchange
 * [Ethereum Token Standards](https://github.com/PhABC/ethereum-token-standards-list) - An exhaustive list of Ethereum Token Standards
+* [Web3Grants.net](https://web3grants.net) - A list of web3/crypto related grant programs
+* [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - An unofficial Ecosystem page for Ethereum and its Layer 2s featuring 1000+ dApps
 
 ### Decentralized Finance (DeFi)
 * [ETHLend](https://ethlend.io) - Decentralised peer to peer lending marketplace that allows people all over the world to get a loan or become a lender.
 * [Aave Pay](https://pay.aave.com) - Aave Pay allow users to pay in FIAT currencies to bank accounts using their cryptocurrencies.
 * [rTrees](https://rtrees.dappy.dev) - A no-loss donation app for growing real trees using DeFi interest.
+* [Laizer-pay](https://www.lazerpay.finance/) - A no-loss donation app for growing real trees using DeFi interest.
 
 ### Decentralized Cloud (Database, File Storage and Computing)
 
@@ -176,5 +197,6 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 ### Jobs
 - [Jobs at ConsenSys](https://consensys.net/careers/) - jobs at ConsenSys
 - [Jobs at Ethereum Foundation](https://ethereum.bamboohr.com/jobs/) - jobs at Ethereum Foundation
+- [Jobs at Moralis](https://talent.moralis.io) - jobs at Moralis
 - [Solidity Jobs](https://cryptojobslist.com/solidity-jobs) - list of Solidity jobs on Crypto Jobs List
 - [Web3Jobs](https://web3.career) - list of jobs in Web3.

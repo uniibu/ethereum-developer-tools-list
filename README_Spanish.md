@@ -77,6 +77,7 @@ Muchas gracias a los ~100 contribuidores, incluidos [@corbpage](https://twitter.
 * [dfuse](https://dfuse.io) - Eficiente blockchain API para crear aplicaciones de clase mundial.
 * [Biconomy](https://biconomy.io) - realice transacciones sin gas en su dapp habilitando meta-transacciones utilizando un SDK fácil de usar.
 * [Blocknative](https://blocknative.com) - eventos de Blockchain antes de que sucedan. El portafolio de desarrolladores de Blocknative facilita la creación con datos mempool.
+* [EVMTools](https://evmtools.xyz) - Kit de herramientas EVM para desarrolladores de web3 y Solidity, todas tus herramientas de desarrollo en un solo lugar. Tiene más de 20 utilidades y se agregan más con frecuencia.
  
 ## Herramientas para desarrollador
 ### Desarrollando Contratos Inteligentes
@@ -134,11 +135,12 @@ Muchas gracias a los ~100 contribuidores, incluidos [@corbpage](https://twitter.
 * [ZMOK](https://zmok.io/) - API JSON-RPC de Ethereum (Mainnet, Rinkeby, Mainnet de ejecución frontal).
  
 #### Prueba Grifos (Faucets) de Ether
-[Grifo Rinkeby](https://faucet.rinkeby.io/)
+* [Grifo Rinkeby](https://faucet.rinkeby.io/)
 * [Grifo Kovan](https://github.com/kovan-testnet/faucet)
 * [Grifo Ropsten (MetaMask)](https://faucet.metamask.io/)
 * [Grifo Ropsten (rpanic)](https://faucet.rpanic.com)
 * [Grifo Goerli](https://goerli-faucet.slock.it/)
+* [Grifo Holesky](https://stakely.io/en/faucet/ethereum-holesky-testnet-eth)
 * [Grifo Universal](https://faucets.blockxlabs.com/)
 * [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
  
@@ -179,11 +181,13 @@ Muchas gracias a los ~100 contribuidores, incluidos [@corbpage](https://twitter.
 * [Web3.php](https://github.com/sc0Vu/web3.php) - PHP Web3
 * [Ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP Web3
 * [Web3j](https://github.com/web3j/web3j) - Java Web3
+* [ethers-kt](https://github.com/Kr1ptal/ethers-kt) - Biblioteca Kotlin asíncrona de alto rendimiento para interactuar con blockchains basadas en EVM. Orientada a plataformas JVM y Android.
 * [Nethereum](https://nethereum.com/) - .Net Web3
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - Ruby Web3
 * [rust-web3](https://github.com/tomusdrw/rust-web3) - Rust Web3
 * [Web3.hs](https://hackage.haskell.org/package/web3) - Haskell Web3
 * [KEthereum](https://github.com/komputing/KEthereum) - Kotlin Web3
+* [web3dart](https://github.com/xclud/web3dart) - Dart Web3
 * [Eventeum](https://github.com/ConsenSys/eventeum) - Un puente entre los eventos de contratos inteligentes de Ethereum y los microservicios del backend, escrito en Java por Kauri.
 * [Ethereumex](https://github.com/mana-ethereum/ethereumex) - Cliente Elixir JSON-RPC para la blockchain de Ethereum.
 * [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - Una puerta de enlace que permite ejecutar varios nodos Ethereum con fines de redundancia y equilibrio de carga. Se puede ejecutar como alternativa a (o sobre) Infura. Escrito en Golang.
@@ -301,6 +305,7 @@ Muchas gracias a los ~100 contribuidores, incluidos [@corbpage](https://twitter.
 * [Protocolo de cable DEVp2p](https://github.com/ethereum/devp2p/blob/master/rlpx.md) - comunicaciones de igual a igual entre nodos que ejecutan Ethereum/Whisper.
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - implementación de Python de la capa de red RLPx.
 * [3Box Threads](https://docs.3box.io/api/messaging) - API que permite a los desarrolladores implementar IPFS persistente o en la memoria de mensajes de igual a igual.
+* [GroupFi](https://github.com/TanglePay/GroupFi-Chatbox/blob/dev/packages/sdk/README.md) - GroupFi Chatbox SDK permite a los desarrolladores integrar fácilmente el chatbox de GroupFi en sus dApps en cadenas EVM.
 
 ### Herramientas para Pruebas
 * [Truffle Teams](https://trufflesuite.com/teams) - Integración continua Zero-Config para proyectos de truffle.
@@ -343,6 +348,7 @@ Muchas gracias a los ~100 contribuidores, incluidos [@corbpage](https://twitter.
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - una colección de vulnerabilidades en contratos inteligentes ERC20 con tokens afectados.
 * [Auditoría de seguridad de contrato inteligente gratuita](https://callisto.network/smart-contract-audit/) - Auditorías de seguridad de contrato inteligente gratuitas de Callisto Network.
 * [Piet](https://piet.slock.it) - un analizador visual de arquitectura de Solidity.
+* [Kontrol](https://github.com/runtimeverification/kontrol) - Verificación formal de smart contracts escritos en Solidity mediante tests de propiedades en Foundry.
 
 ### Monitoreo
 * [Alethio](https://aleth.io/) - una plataforma de análisis avanzada de Ethereum que proporciona monitoreo en vivo, información y detección de anomalías, métricas de tokens, auditorías de contratos inteligentes, visualización de gráficos y búsqueda de blockchain. También se puede explorar la información de mercado en tiempo real y las actividades comerciales en los intercambios descentralizados de Ethereum.

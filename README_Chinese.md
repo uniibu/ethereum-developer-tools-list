@@ -79,6 +79,7 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 * [Kauri.io](https://kauri.io/) - 基于Web3的社区和新兴技术的知识平台。分享精选内容，并就最新，高质量的技术文章和系列进行协作。 请查看[“入门”社区](https://kauri.io/community/5d9b16fc890d310001b66e1b)以学习基础知识。
 * [dfuse](https://dfuse.io) - Slick 区块链 API 可以构建世界一流的应用程序。
 * [Biconomy](https://biconomy.io) - 通过使用简单易用的SDK启用元交易来在dapp中进行无Gas交易。
+* [EVMTools](https://evmtools.xyz) - 面向Web3和Solidity开发者的EVM工具包，所有开发工具集中在一个地方。它有20多个实用工具，并且经常添加新的工具。
 
 ## 开发者工具
 ### 开发智能合约
@@ -135,6 +136,7 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 * [Kovan 水龙头](https://github.com/kovan-testnet/faucet)
 * [Ropsten 水龙头](https://faucet.metamask.io/)
 * [Goerli 水龙头](https://goerli-faucet.slock.it/)
+* [Holesky 水龙头](https://stakely.io/en/faucet/ethereum-holesky-testnet-eth)
 * [Universal 水龙头](https://faucets.blockxlabs.com/)
 * [Nethereum 水龙头](https://github.com/Nethereum/Nethereum.Faucet) - 一个 C#/.NET 水龙头
 
@@ -171,10 +173,12 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 * [Web3.php](https://github.com/sc0Vu/web3.php) - PHP Web3
 * [Ethereum-php](https://github.com/digitaldonkey/ethereum-php) - PHP Web3
 * [Web3j](https://github.com/web3j/web3j) - Java Web3
+* [ethers-kt](https://github.com/Kr1ptal/ethers-kt) - 用于与基于EVM的区块链交互的异步、高性能Kotlin库。面向JVM和Android平台。
 * [Nethereum](https://nethereum.com/) - .Net Web3
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) - Ruby Web3
 * [Web3.hs](https://hackage.haskell.org/package/web3) - Haskell Web3
 * [KEthereum](https://github.com/komputing/KEthereum) - Kotlin Web3
+* [web3dart](https://github.com/xclud/web3dart) - Dart Web3
 * [Eventeum](https://github.com/ConsenSys/eventeum) - 由Kauri用Java编写的以太坊智能合约事件和后端微服务之间的桥梁
 * [Ethereumex](https://github.com/mana-ethereum/ethereumex) - 以太坊区块链的Elixir JSON-RPC客户端
 * [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - 一个网关，允许您运行多个以太坊节点以实现冗余和负载平衡。可以作为Infura的替代品（或在其之上）运行。用Golang写的。
@@ -288,6 +292,8 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 * [DEVp2p Wire Protocol](https://github.com/ethereum/devp2p/blob/master/rlpx.md) - 运行以太坊/低语的节点之间的对等通信
 * [Pydevp2p](https://github.com/ethereum/pydevp2p) - RLPx网络层的Python实现
 * [3Box Threads](https://docs.3box.io/api/messaging) - API，使开发人员能够持久地实现IPFS，或在内存中实现对等消息传递。
+* [GroupFi](https://github.com/TanglePay/GroupFi-Chatbox/blob/dev/packages/sdk/README.md) - GroupFi 聊天框 SDK 使开发者能够轻松将 GroupFi 的聊天框集成到他们基于 EVM 链的 dApp 中。
+
 
 ### 测试工具
 * [Truffle Teams](https://trufflesuite.com/teams) - 零配置持续集成松露项目
@@ -330,6 +336,7 @@ https://github.com/ConsenSys/ethereum-developer-tools-list/pull/70
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) -受影响的代币中ERC20智能合约中的漏洞的集合
 * [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Callisto Network提供的免费的智能合约安全审核
 * [Piet](https://piet.slock.it) - 可视化Solidity体系结构分析器
+* [Kontrol](https://github.com/runtimeverification/kontrol) - 通过 Foundry 属性测试对 Solidity 智能合约进行形式验证 
 
 ### 监控方式
 * [Alethio](https://aleth.io/) - 一个先进的以太坊分析平台，提供实时监控，洞察和异常检测，令牌指标，智能合约审计，图形可视化和区块链搜索。还可以探索以太坊去中心化交易所的实时市场信息和交易活动。
